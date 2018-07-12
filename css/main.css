@@ -88,3 +88,15 @@ div.certs:hover{
     
     border:2px solid darkblue;
 }
+
+div.ccard{
+    border:1px solid darkblue;
+    width:300px;
+    height:80px;
+    border-radius:5px;
+    padding: 10px;
+    margin:  30% ;
+    background-color: cornflowerblue;
+    color:beige;
+    
+}
